@@ -1,13 +1,5 @@
 ### Hello World
 
-<br/>
-
-
-<a href="https://www.linkedin.com/in/andraz-vrecko-9485b81a2/">
-<img align="left" alt="Andraz Vrecko" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-
 <br />
 
 Hi!
@@ -17,6 +9,10 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 - I’m currently working part time at MG-Soft.
 - I’m currently learning React.
 
+<br />
+<a href="https://www.linkedin.com/in/andraz-vrecko-9485b81a2/">
+<img align="left" alt="Andraz Vrecko" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 # My Projects
 
