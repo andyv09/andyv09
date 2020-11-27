@@ -14,8 +14,8 @@ Hi!
 My name is Andraz and I am an aspiring software engineer from Slovenia. I love solving problems and learning new skills. I am currently studying Computer Science at the University of Maribor.
 
 
-- 🔭 I’m currently working part time at MG-Soft.
-- 🌱 I’m currently learning React.
+- I’m currently working part time at MG-Soft.
+- I’m currently learning React.
 
 
 # My Projects
