@@ -32,6 +32,7 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 ### C#
 - <a href="https://github.com/andrazvrecko/TCPChat">TCP Chat</a>
 - <a href="https://github.com/andrazvrecko/imageConnector">Merge Images</a>
+- <a href="https://github.com/andrazvrecko/nQueens">N Queens Problem</a>
 ### Assembly
 - <a href="https://github.com/andrazvrecko/assemblyProjects">Assembly Assignments</a>
 
