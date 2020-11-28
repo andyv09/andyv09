@@ -30,6 +30,7 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 ### JavaScript
 - <a href="https://andrazvrecko.github.io/sort-visualization/">Sort Visualization</a>
 ### C#
+- <a href="https://github.com/andrazvrecko/TCPChat">TCP Chat</a>
 - <a href="https://github.com/andrazvrecko/imageConnector">Merge Images</a>
 ### Assembly
 - <a href="https://github.com/andrazvrecko/assemblyProjects">Assembly Assignments</a>
