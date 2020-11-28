@@ -19,6 +19,9 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 
 ### C++
 - <a href="https://github.com/andrazvrecko/MandelbrotExplorer">Mandelbrot Explorer</a>
+- <a href="https://github.com/andrazvrecko/smallProjects/tree/main/huffman">Huffman Compression</a>
+- <a href="https://github.com/andrazvrecko/smallProjects/tree/main/lzw">LZW Compression</a>
+- <a href="https://github.com/andrazvrecko/smallProjects">Other School Asignments</a>
 
 ### Python
 - <a href="https://github.com/andrazvrecko/NeuralNetwork">Neural Network</a>
