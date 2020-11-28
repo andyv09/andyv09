@@ -21,7 +21,7 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 - <a href="https://github.com/andrazvrecko/MandelbrotExplorer">Mandelbrot Explorer</a>
 - <a href="https://github.com/andrazvrecko/smallProjects/tree/main/huffman">Huffman Compression</a>
 - <a href="https://github.com/andrazvrecko/smallProjects/tree/main/lzw">LZW Compression</a>
-- <a href="https://github.com/andrazvrecko/smallProjects">Other School Asignments</a>
+- <a href="https://github.com/andrazvrecko/smallProjects">Other School Assignments</a>
 
 ### Python
 - <a href="https://github.com/andrazvrecko/NeuralNetwork">Neural Network</a>
@@ -31,5 +31,8 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 - <a href="https://andrazvrecko.github.io/sort-visualization/">Sort Visualization</a>
 ### C#
 - <a href="https://github.com/andrazvrecko/imageConnector">Merge Images</a>
+### Assembly
+- <a href="https://github.com/andrazvrecko/assemblyProjects">Assembly Assignments</a>
+
 
 ![Andraz's github stats](https://github-readme-stats.vercel.app/api?username=andrazvrecko&show_icons=true&hide_border=true)
