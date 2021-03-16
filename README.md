@@ -17,6 +17,9 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 
 # My Projects
 
+### FullStack
+- <a href="https://github.com/andrazvrecko/iot-system">Scalable IoT System Simulator</a>
+
 ### C++
 - <a href="https://github.com/andrazvrecko/MandelbrotExplorer">Mandelbrot Explorer</a>
 - <a href="https://github.com/andrazvrecko/smallProjects/tree/main/huffman">Huffman Compression</a>
