@@ -17,8 +17,8 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 
 # My Projects
 
-### FullStack
-- <a href="https://github.com/andrazvrecko/iot-system">Scalable IoT System Simulator</a>
+### Fullstack
+- <a href="https://github.com/andrazvrecko/iot-system">Scalable IoT System</a>
 
 ### C++
 - <a href="https://github.com/andrazvrecko/MandelbrotExplorer">Mandelbrot Explorer</a>
@@ -32,6 +32,7 @@ My name is Andraz and I am an aspiring software engineer from Slovenia. I love s
 
 ### JavaScript
 - <a href="https://andrazvrecko.github.io/sort-visualization/">Sort Visualization</a>
+- <a href="https://github.com/andrazvrecko/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
 ### C#
 - <a href="https://github.com/andrazvrecko/TCPChat">TCP Chat</a>
 - <a href="https://github.com/andrazvrecko/imageConnector">Merge Images</a>
