@@ -25,7 +25,7 @@ My name is Andraz and I'm a Student Software Engineer.
 - <a href="https://andrazvrecko.github.io/sort-visualization/">Sort Visualization</a>
 - <a href="https://github.com/andrazvrecko/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
 ### Solidity
- - <a href="https://github.com/andrazvrecko/NFTCollection">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
+ - <a href="https://github.com/andrazvrecko/NFTCollection">NFT Collection</a>
 ### C#
 - <a href="https://github.com/andrazvrecko/TCPChat">TCP Chat</a>
 - <a href="https://github.com/andrazvrecko/imageConnector">Merge Images</a>
