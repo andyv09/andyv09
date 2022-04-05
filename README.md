@@ -1,12 +1,12 @@
-### Hello World
+# Hello World
 
 <br />
 
-My name is Andraz and I'm a Student Software Engineer.
+My name is Andraz and I'm a Researcher & Software Engineer @ <a href="https://blockchain-lab.um.si/?lang=en">Blockchain Lab:UM</a>.
 
 <br />
 
-# My Projects
+## Some of the projects I've worked on
 
 ### Fullstack
 - <a href="https://github.com/andyv09/iot-system">Scalable IoT System</a>
