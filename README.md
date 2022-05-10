@@ -16,6 +16,14 @@
 ### Fullstack
 - <a href="https://github.com/andyv09/iot-system">Scalable IoT System</a>
 
+### JavaScript
+- <a href="https://github.com/blockchain-lab-um/ssi-snap">SSI Snap for MetaMask</a>
+- <a href="https://github.com/blockchain-lab-um/veramo-vc-manager">VC Extension for Veramo</a>
+- <a href="https://github.com/blockchain-lab-um/course-dapp">Demo platform for SSI Snap</a>
+- <a href="https://andyv09.github.io/sort-visualization/">Sort Visualization</a>
+- <a href="https://github.com/andyv09/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
+- <a href="https://github.com/andyv09/eth-transaction-viewer">Ethereum transaction viewer</a>
+
 ### C++
 - <a href="https://github.com/andyv09/MandelbrotExplorer">Mandelbrot Explorer</a>
 - <a href="https://github.com/andyv09/smallProjects/tree/main/huffman">Huffman Compression</a>
@@ -26,13 +34,6 @@
 - <a href="https://github.com/andyv09/NeuralNetwork">Neural Network</a>
 - <a href="https://github.com/andyv09/pathFinder">Path Finding Visualization</a>
 
-### JavaScript
-- <a href="https://github.com/blockchain-lab-um/ssi-snap">SSI Snap for MetaMask</a>
-- <a href="https://github.com/blockchain-lab-um/veramo-vc-manager">VC Extension for Veramo</a>
-- <a href="https://github.com/blockchain-lab-um/course-dapp">Demo platform for SSI Snap</a>
-- <a href="https://andyv09.github.io/sort-visualization/">Sort Visualization</a>
-- <a href="https://github.com/andyv09/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
-- <a href="https://github.com/andyv09/eth-transaction-viewer">Ethereum transaction viewer</a>
 ### Solidity
  - <a href="https://github.com/andyv09/NFTCollection">NFT Collection</a>
 ### C#
