@@ -27,6 +27,9 @@
 - <a href="https://github.com/andyv09/pathFinder">Path Finding Visualization</a>
 
 ### JavaScript
+- <a href="https://github.com/blockchain-lab-um/ssi-snap">SSI Snap for MetaMask</a>
+- <a href="https://github.com/blockchain-lab-um/veramo-vc-manager">VC Extension for Veramo</a>
+- <a href="https://github.com/blockchain-lab-um/course-dapp">Demo platform for SSI Snap</a>
 - <a href="https://andyv09.github.io/sort-visualization/">Sort Visualization</a>
 - <a href="https://github.com/andyv09/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
 - <a href="https://github.com/andyv09/eth-transaction-viewer">Ethereum transaction viewer</a>
