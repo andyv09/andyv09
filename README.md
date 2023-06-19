@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/andyv09/andyv09/blob/main/header.png)](https://github.com/andyv09/)
 
 
-## I'm a Software Engineer with great interest and passion for Blockchain, Web3, IoT and automotive industry. In my free time I enjoy playing video games :video_game: and guitar :guitar:.
+## I'm a Software Engineer with great interest and passion for Blockchain, Web3, IoT and automotive industry. In my free time I enjoy playing video games :video_game:.
 
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
