@@ -4,44 +4,15 @@
 ## I'm a Software Engineer with great interest and passion for Blockchain, Web3, IoT and automotive industry. In my free time I enjoy playing video games :video_game:.
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
+- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)** and **[Lutra Labs](https://lutralabs.io)**
+- 🚧  Some projects I worked/am working on:
+  - 😷  [Masca](https://masca.io)
+  - 🤝  [Endorse.fun](https://endorse.fun)
+  - ⚡️  [Swaylend](https://swaylend.com)
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
-- 🤔 &nbsp;I’m currently learning **React and SSI**
-- 💬 &nbsp;I like to talk about **Blockchain**, **Cryptocurrency**, **Video Games** and **Cars**
 
 <br />
 
-## Some of the projects I've worked on
-
-### Fullstack
-- <a href="https://github.com/andyv09/iot-system">Scalable IoT System</a>
-
-### JavaScript
-- <a href="https://github.com/blockchain-lab-um/ssi-snap">SSI Snap for MetaMask</a>
-- <a href="https://github.com/blockchain-lab-um/veramo-vc-manager">VC Extension for Veramo</a>
-- <a href="https://github.com/blockchain-lab-um/course-dapp">Demo platform for SSI Snap</a>
-- <a href="https://andyv09.github.io/sort-visualization/">Sort Visualization</a>
-- <a href="https://github.com/andyv09/dca-calculator">Dollar Cost Averaging Calculator for Cryptocurrencies</a>
-- <a href="https://github.com/andyv09/eth-transaction-viewer">Ethereum transaction viewer</a>
-
-### C++
-- <a href="https://github.com/andyv09/MandelbrotExplorer">Mandelbrot Explorer</a>
-- <a href="https://github.com/andyv09/smallProjects/tree/main/huffman">Huffman Compression</a>
-- <a href="https://github.com/andyv09/smallProjects/tree/main/lzw">LZW Compression</a>
-- <a href="https://github.com/andyv09/smallProjects">Other School Assignments</a>
-
-### Python
-- <a href="https://github.com/andyv09/NeuralNetwork">Neural Network</a>
-- <a href="https://github.com/andyv09/pathFinder">Path Finding Visualization</a>
-
-### Solidity
- - <a href="https://github.com/andyv09/NFTCollection">NFT Collection</a>
-### C#
-- <a href="https://github.com/andyv09/TCPChat">TCP Chat</a>
-- <a href="https://github.com/andyv09/imageConnector">Merge Images</a>
-- <a href="https://github.com/andyv09/nQueens">N Queens Problem</a>
-### Assembly
-- <a href="https://github.com/andyv09/assemblyProjects">Assembly Assignments</a>
 
 #
 ### Want to buy me a coffee? ☕️
